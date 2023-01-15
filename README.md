@@ -1,5 +1,3 @@
 ### Hi there, my name is Hafid 👋
 
-<a href="https://github.com/HafidurR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HafidurR&theme=algolia&show_icons=true&count_private=true" />
-</a>
+|[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HafidurR&bg_color=000000&color=fefefe&line=7f3ace&point=fefefe&area=true&hide_border=true)](https://github.com/HafidurR)|<img width="432" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HafidurR&layout=compact&langs_count=8&theme=midnight-purple&hide=css,tsql,html,scss,less,makefile,shell,dockerfile&hide_border=true" /><br/>![Made with love in Indonesia](https://madewithlove.now.sh/id?heart=true&colorA=%23000000&colorB=%23ff0000&template=for-the-badge)|
